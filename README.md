@@ -44,3 +44,14 @@ https://codeadam.ca
 You can use plain HTML in a README.md file:
 
 <img src="/__readme/avatar-ga8a3d1a63_640.png" width="100">
+
+## Code — this only works for GitHub and StackOverflow
+
+Wrap code in ticks (`).
+
+Use the `<html>` tag to start an HTML document.
+
+```javascript
+console.log("Hello World!");
+document.write(<h1>Hello World!</h1>");
+```
