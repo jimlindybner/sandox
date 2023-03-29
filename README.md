@@ -12,3 +12,4 @@ This is a paragraph also.
 ### Header level 3
 
 Some more paragraph text.
+*italics* **bold** ***italics and bold***.
