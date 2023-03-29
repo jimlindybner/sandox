@@ -45,7 +45,7 @@ You can use plain HTML in a README.md file:
 
 <img src="/__readme/avatar-ga8a3d1a63_640.png" width="100">
 
-## Code — this only works for GitHub and StackOverflow
+## Code — this only works for GitHub and Stack Overflow
 
 Wrap code in ticks (`).
 
@@ -61,4 +61,9 @@ document.write(<h1>Hello World!</h1>");
 | First Heading | Second Heading |     |
 |---------------|----------------|--:  |
 |Value 1        | Value 2        | 1.0 |
-|Value 1        | Value 2        | 2.0 |
+|Value 3        | Value 4        | 2.0 |
+
+First Heading | Second Heading | #
+--- | --- | ---:
+Value 1 | Value 2 | 1.0
+Value 3 | Value 4 | 2.0
