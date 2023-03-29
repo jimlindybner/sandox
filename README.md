@@ -31,7 +31,7 @@ Some more paragraph text.
 
 ## Links
 
-Here is a link to [adam's website] (https://codeadam.ca).
+Here is a link to [adam's website](https://codeadam.ca).
 
 BTW: Properly formatted URLs will be linked.
 
