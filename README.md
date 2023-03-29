@@ -40,3 +40,7 @@ https://codeadam.ca
 ## Images
 
 ![test avatar img](/__readme/avatar-ga8a3d1a63_640.png "test avatar img")
+
+You can use plain HTML in a README.md file:
+
+<img src="/__readme/avatar-ga8a3d1a63_640.png" width="100">
