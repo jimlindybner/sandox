@@ -5,11 +5,18 @@ This is a paragraph.
 This is another paragraph.
 This text is not a new paragraph.
 
-## Header level 2
-
-This is a paragraph also.
-
-### Header level 3
+## Emphasis
 
 Some more paragraph text.
-*italics* **bold** ***italics and bold***.
+*Italics*, **bold**, ***italics and bold***.
+
+## Lists
+
+### Unordered lists
+
+- Use a dash as a bullet
+- No space before the dash
+- one space after the dash
+- if you have two lines in this list item
+
+    Use four spaces to indent the next line
