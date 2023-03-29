@@ -36,3 +36,6 @@ Here is a link to [adam's website](https://codeadam.ca).
 BTW: Properly formatted URLs will be linked.
 
 https://codeadam.ca
+
+## Images
+
