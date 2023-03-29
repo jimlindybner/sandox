@@ -20,3 +20,11 @@ Some more paragraph text.
 - if you have two lines in this list item
 
     Use four spaces to indent the next line
+
+### Ordered lists
+
+1. use numbers
+2. A space after the number
+3. If you have two lines in this lists items
+
+    Use four spaces to indent the next line
