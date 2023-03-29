@@ -29,4 +29,10 @@ Some more paragraph text.
 
     Use four spaces to indent the next line
 
-## Links and images
+## Links
+
+Here is a link to [adam's website] (https://codeadam.ca).
+
+BTW: Properly formatted URLs will be linked.
+
+https://codeadam.ca
