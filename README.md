@@ -55,3 +55,10 @@ Use the `<html>` tag to start an HTML document.
 console.log("Hello World!");
 document.write(<h1>Hello World!</h1>");
 ```
+
+## Tables
+
+| First Heading | Second Heading |     |
+|---------------|----------------|--:  |
+|Value 1        | Value 2        | 1.0 |
+|Value 1        | Value 2        | 2.0 |
