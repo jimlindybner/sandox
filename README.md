@@ -39,3 +39,4 @@ https://codeadam.ca
 
 ## Images
 
+![test avatar img](/__readme/avatar-ga8a3d1a63_640.png "test avatar img")
